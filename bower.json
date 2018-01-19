@@ -1,0 +1,20 @@
+{
+  "name": "sphericalmercator",
+  "homepage": "https://github.com/bwyss/sphericalmercator",
+  "authors": [
+    "Ben <bmwyss@gmail.com>"
+  ],
+  "description": "Spherical Mercator math in Javascript ",
+  "main": "build/v1.0.5/sphericalmercator.js",
+  "keywords": [
+    "Spherical",
+    "Mercator"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
